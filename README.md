@@ -1,7 +1,7 @@
 # Base Project
 
 ## Descrição
-Este projeto serve como um modelo base para futuros projetos. Inclui configurações essenciais e código boilerplate para ajudá-lo a começar rapidamente.
+Este projeto serve como um modelo base para futuros projetos. Inclui configurações essenciais e código padrão para ajudá-lo a começar rapidamente.
 
 ## Funcionalidades
 - Estrutura básica do projeto
